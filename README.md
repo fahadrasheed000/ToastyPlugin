@@ -1,1 +1,1 @@
-# ToastyPlugineeeeee
+# ToastyPlugin
